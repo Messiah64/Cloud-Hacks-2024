@@ -141,7 +141,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-Made by Mo, Nyan, and Kaushik. For any inquiries, please contact Kaushik at kaushikmanian456@gmail.com.
