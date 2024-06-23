@@ -5,7 +5,7 @@ import plotly.express as px
 import time
 
 st.set_page_config(page_title="Dashboard Cloud Hacks 2", 
-                   layout="centered",
+                   layout="wide",
                    initial_sidebar_state="collapsed")
 
 API_URL = "https://hjhxraozowuswznxacop.supabase.co"
